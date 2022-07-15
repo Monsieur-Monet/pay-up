@@ -1,8 +1,8 @@
-import Header from "components/Header";
-import "./index.css";
+import Header from 'components/Header'
+import './index.css'
 
 function App() {
-  return <Header></Header>;
+  return <Header></Header>
 }
 
-export default App;
+export default App
